@@ -24,7 +24,5 @@ Bootstrap
 ## Support and Contact Details
 For further details reach me out via mwikiam@gmail.com
 
-## Licence
 
-MIT copyright (c) 2020 Martin Mwikia
 
